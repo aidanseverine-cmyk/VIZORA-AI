@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VIZORA AI</string>
+    <string name="tagline">Imagine it. Prompt it. Create it.</string>
+    <string name="hero_headline">Turn Your Ideas Into Videos With AI.</string>
+    <string name="hero_subtitle">Write a prompt. Create a story. Generate cinematic videos in minutes.</string>
+    <string name="cta_create_video">Create Video</string>
+    <string name="cta_explore_templates">Explore Templates</string>
+    <string name="btn_enhance_prompt">Enhance Prompt</string>
+    <string name="btn_generate_video">Generate Video</string>
+    <string name="error_generation_failed">Something went wrong while generating your video.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="btn_edit_prompt">Edit Prompt</string>
+    <string name="btn_report_problem">Report Problem</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_story">Story</string>
+    <string name="nav_editor">Editor</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_account">Studio</string>
+</resources>

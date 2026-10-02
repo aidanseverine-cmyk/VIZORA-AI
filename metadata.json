@@ -1,0 +1,6 @@
+{
+  "name": "VIZORA AI",
+  "description": "Imagine it. Prompt it. Create it. Next-generation AI Video Creation Studio with Text-to-Video, Story-to-Video, AI Prompt Enhancer, Timeline Editor, Voiceover & Music Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
